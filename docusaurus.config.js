@@ -46,7 +46,8 @@ const config = {
         title: 'Albatross',
         logo: {
           alt: 'Albatross Logo',
-          src: 'img/logo.svg',
+          src: 'img/albatross-logo.svg',
+          srcDark: 'img/albatross-dark-logo.svg'
         },
         items: [
           {
